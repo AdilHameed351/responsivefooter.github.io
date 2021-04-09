@@ -1,0 +1,9 @@
+ol{
+    width: 50px;
+    background-color: black;
+    padding: 10px;
+    margin: 100px auto;
+    color: blue;
+    max-height: 200px;
+    overflow: auto;
+}

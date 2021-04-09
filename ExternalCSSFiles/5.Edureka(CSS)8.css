@@ -1,0 +1,44 @@
+a:visited{
+    background-color: orange;
+    color: red;
+}
+
+body{
+    background-color: #43982F;
+}
+
+#wrapper{
+    margin: 0 auto;
+    background-color: white;
+    width: 800px;
+    height: 1000px; 
+}
+
+header{
+    padding: 0px 0px 10px 0px;
+}
+
+#horzNav:hover{
+    display: block;
+    background-color: black;
+    color: white;
+}
+
+#para-1{
+    word-spacing: 10px;
+}
+
+#para-2{
+    word-spacing: 20px;
+    letter-spacing: 10px;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    clear: both;
+}
+
+ul{
+    list-style: none;
+}
